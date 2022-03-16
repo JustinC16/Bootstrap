@@ -1,0 +1,14 @@
+body{
+    background-color: #487eb0;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: .5%;
+}
+.Title{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    background-color: white;
+    color: black;
+}
