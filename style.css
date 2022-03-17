@@ -12,3 +12,29 @@ body{
     background-color: white;
     color: black;
 }
+p{
+    font-size: 20px;
+}
+.purple{
+    color: rgb(128, 0, 128);  
+}
+.pink{
+    color: rgb(224, 18, 180);
+}
+.yellow{
+    color: rgb(255, 255, 0);
+}
+.orange{
+    color: rgb(255, 153, 0);
+}
+.gray{
+    color: rgb(128, 125, 125);
+}
+.dogpic{
+    border-width:20px;
+    border-style:dashed;
+    border-color: black;
+}
+img.dogpic{
+    width: 120px;
+}
