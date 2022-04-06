@@ -1,0 +1,13 @@
+.nav{
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.4);
+  }
+.carousel{
+    width: 25%;
+    background-color: rgba(0, 34, 0, 3.4);
+}
+body{
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+  

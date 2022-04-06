@@ -1,0 +1,97 @@
+.setimage{
+    width:50%;
+}
+
+.stickTop {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 15%;
+}
+
+.stickBottom {
+    position: sticky;
+    bottom: 0;
+    z-index: 1;
+    width: 15%;
+}
+
+.img1 {
+    width: 15%;
+}
+
+.img21 {
+    transform: scaleY(-1);
+}
+
+.img22{
+    transform: scaleX(-1);
+} 
+
+.img23{
+    transform: scaleX(-1) scaleY(-1);
+}
+
+.img3{
+    transform: scale(150%);
+}
+
+.img4{
+    transform: rotate(1260deg); 
+}
+
+.img5{
+    width: 99%;
+    height: 101%;
+    transform: rotate(-1deg);
+}
+
+.img6{
+    transform: scaleX(-1);
+    height: 90%;
+    width: 80%;
+}
+
+.img7{
+    transform: scale(80%);
+}
+
+.img8{
+    width: 101%;
+}
+
+.img9{
+    transform: rotate(50deg);
+}
+
+.img101{
+    height:50%;
+}
+
+.img102{
+    height:75%;
+}
+
+.img11{
+    transform: rotate(30deg) scaleY(-1);
+}
+
+.img121{
+    transform: scaleX(-1);
+}
+
+.img122{
+    transform: scaleY(-1);
+}
+
+.img13{
+    transform: rotate(-500deg);
+}
+
+.img14{
+    transform: rotate(45deg) scale(45%);
+}
+
+.img15{
+    transform: rotate(-87deg) scale(87%) scaleY(-0.5);
+}
